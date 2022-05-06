@@ -1,0 +1,16 @@
+body{
+   margin: 0 auto;
+}
+.LoginInput{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
